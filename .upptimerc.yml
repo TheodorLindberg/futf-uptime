@@ -28,8 +28,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /futf-uptime
+  cname: status.futf.se
+  #baseUrl: /futf-uptime
   logoUrl: https://futf.se/favicon-futf.ico
   name: FUTF Status
   introTitle: "Föreningen Uppsala Tekniska Fysiker"
