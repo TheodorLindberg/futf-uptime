@@ -16,9 +16,9 @@ sites:
   - name: TeFAT
     url: https://tefat.futf.se
   - name: Link
-    url: https://link.futf.se
-  - name: Vote
-    url: https://vote.futf.se
+    url: https://link.futf.se/gdpr
+#  - name: Vote
+#    url: https://vote.futf.se
     
   - name: FUTF Minecraft
     url: mc.futf.se
@@ -28,7 +28,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.futf.se
+  cname: test.futf.se
   #baseUrl: /futf-uptime
   logoUrl: https://futf.se/favicon-futf.ico
   name: FUTF Status
