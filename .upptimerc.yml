@@ -3,6 +3,8 @@ owner: theodorlindberg # Your GitHub organization or username, where this reposi
 repo: futf-uptime # The name of this repository
 
 sites:
+  - name: Uptime
+    url: https://uptime.futf.se
   - name: Hemisda
     url: https://futf.se
   - name: Mattermost
@@ -28,12 +30,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: test.futf.se
+  cname: status.futf.se
   #baseUrl: /futf-uptime
   logoUrl: https://futf.se/favicon-futf.ico
   name: FUTF Status
   introTitle: "Föreningen Uppsala Tekniska Fysiker"
-  introMessage: Status för hemsidor och IT tjänster, kontakta sysadmin@futf.se vid problem med föreningens it tjänster. 
+  introMessage: Status för hemsidor och IT tjänster, kontakta sysadmin@futf.se vid problem. Se https://uptime.futf.se/status/web för status i realtid
   navbar:
     - title: Futf
       href: https://futf.se
