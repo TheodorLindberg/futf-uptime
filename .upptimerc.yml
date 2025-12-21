@@ -35,9 +35,13 @@ status-website:
   logoUrl: https://futf.se/favicon-futf.ico
   name: FUTF Status
   introTitle: "Föreningen Uppsala Tekniska Fysiker"
-  introMessage: Status för hemsidor och IT tjänster, kontakta sysadmin@futf.se vid problem. Se https://uptime.futf.se/status/web för status i realtid
+  introMessage: "Status för föreningens hemsidor och IT tjänster, kontakta **sysadmin@futf.se** vid problem. Se [uptime.futf.se](https://uptime.futf.se/status/web) för status i realtid"
   navbar:
-    - title: Futf
+    - title: Kontakt
+      href: mailto:sysadmin@futf.se
+    - title: Uptime
+      href: https://uptime.futf.se/status/web
+    - title: Hemsida
       href: https://futf.se
 
 # Upptime also supports notifications, assigning issues, and more
