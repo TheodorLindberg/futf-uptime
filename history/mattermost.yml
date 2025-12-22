@@ -1,7 +1,7 @@
 url: https://mattermost.futf.se
-status: down
-code: 525
-responseTime: 450
-lastUpdated: 2025-12-22T11:13:35.063Z
+status: up
+code: 200
+responseTime: 1002
+lastUpdated: 2025-12-22T11:25:16.617Z
 startTime: 2025-12-21T19:22:42.503Z
 generator: Upptime <https://github.com/upptime/upptime>
