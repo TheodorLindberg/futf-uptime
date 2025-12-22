@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.futf.se.ico",
     "slug": "uptime",
     "status": "up",
-    "uptime": "97.22%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "97.22%",
-    "uptimeYear": "97.22%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 850,
     "timeDay": 850,
     "timeWeek": 850,
     "timeMonth": 850,
     "timeYear": 850,
-    "dailyMinutesDown": {
-      "2025-12-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hemisda",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.futf.se.ico",
     "slug": "mattermost",
     "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "97.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 893,
     "timeDay": 893,
     "timeWeek": 893,
     "timeMonth": 893,
     "timeYear": 893,
-    "dailyMinutesDown": {
-      "2025-12-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vaultwarden",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault.futf.se.ico",
     "slug": "vaultwarden",
     "status": "up",
-    "uptime": "97.57%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 756,
     "timeDay": 756,
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
-    "dailyMinutesDown": {
-      "2025-12-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forms",
@@ -83,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms.futf.se.ico",
     "slug": "forms",
     "status": "up",
-    "uptime": "97.57%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "97.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 711,
     "timeDay": 711,
     "timeWeek": 711,
     "timeMonth": 711,
     "timeYear": 711,
-    "dailyMinutesDown": {
-      "2025-12-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arbetsmarknad",
@@ -139,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/link.futf.se.ico",
     "slug": "link",
     "status": "up",
-    "uptime": "97.56%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1129,
     "timeDay": 1129,
     "timeWeek": 1129,
     "timeMonth": 1129,
     "timeYear": 1129,
-    "dailyMinutesDown": {
-      "2025-12-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FUTF Minecraft",
