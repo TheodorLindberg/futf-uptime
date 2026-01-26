@@ -4,10 +4,10 @@
     "url": "https://uptime.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.futf.se.ico",
     "slug": "uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1069,
@@ -15,7 +15,9 @@
     "timeWeek": 1167,
     "timeMonth": 1109,
     "timeYear": 1069,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-26": 1
+    }
   },
   {
     "name": "Hemisda",
@@ -80,12 +82,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 868,
     "timeDay": 1104,
     "timeWeek": 1005,
-    "timeMonth": 906,
+    "timeMonth": 916,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2025-12-26": 21
