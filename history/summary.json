@@ -4,19 +4,19 @@
     "url": "https://uptime.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.futf.se.ico",
     "slug": "uptime",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1069,
-    "timeDay": 1784,
-    "timeWeek": 1167,
-    "timeMonth": 1109,
-    "timeYear": 1069,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1621,
+    "timeDay": 13284,
+    "timeWeek": 4119,
+    "timeMonth": 1849,
+    "timeYear": 1621,
     "dailyMinutesDown": {
-      "2026-01-26": 1
+      "2026-01-26": 5
     }
   },
   {
@@ -98,9 +98,9 @@
     "url": "https://arbetsmarknad.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/arbetsmarknad.futf.se.ico",
     "slug": "arbetsmarknad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 1125,
     "timeMonth": 1132,
     "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-26": 0
+    }
   },
   {
     "name": "TeFAT",
