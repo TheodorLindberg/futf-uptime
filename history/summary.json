@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptime.futf.se.ico",
     "slug": "uptime",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1621,
     "timeDay": 13284,
     "timeWeek": 4119,
     "timeMonth": 1849,
     "timeYear": 1621,
-    "dailyMinutesDown": {
-      "2026-01-26": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hemisda",
@@ -98,19 +96,19 @@
     "url": "https://arbetsmarknad.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/arbetsmarknad.futf.se.ico",
     "slug": "arbetsmarknad",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 1344,
-    "timeWeek": 1125,
-    "timeMonth": 1132,
-    "timeYear": 1173,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1170,
+    "timeDay": 1191,
+    "timeWeek": 1114,
+    "timeMonth": 1129,
+    "timeYear": 1170,
     "dailyMinutesDown": {
-      "2026-01-26": 0
+      "2026-01-26": 9
     }
   },
   {
