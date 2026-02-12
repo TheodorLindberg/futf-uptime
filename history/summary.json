@@ -97,19 +97,19 @@
     "url": "https://arbetsmarknad.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/arbetsmarknad.futf.se.ico",
     "slug": "arbetsmarknad",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1144,
-    "timeDay": 1044,
-    "timeWeek": 1033,
-    "timeMonth": 1101,
-    "timeYear": 1144,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 1143,
+    "timeDay": 1056,
+    "timeWeek": 1038,
+    "timeMonth": 1100,
+    "timeYear": 1143,
     "dailyMinutesDown": {
-      "2026-02-12": 0
+      "2026-02-12": 32
     }
   },
   {
