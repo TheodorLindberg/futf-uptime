@@ -97,18 +97,20 @@
     "url": "https://arbetsmarknad.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/arbetsmarknad.futf.se.ico",
     "slug": "arbetsmarknad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1151,
-    "timeDay": 1368,
-    "timeWeek": 1077,
-    "timeMonth": 1113,
-    "timeYear": 1151,
-    "dailyMinutesDown": {}
+    "time": 1144,
+    "timeDay": 1044,
+    "timeWeek": 1033,
+    "timeMonth": 1101,
+    "timeYear": 1144,
+    "dailyMinutesDown": {
+      "2026-02-12": 0
+    }
   },
   {
     "name": "TeFAT",
