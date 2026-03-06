@@ -58,19 +58,19 @@
     "url": "https://vault.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/vault.futf.se.ico",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 756,
-    "timeWeek": 779,
-    "timeMonth": 759,
-    "timeYear": 789,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 791,
+    "timeDay": 802,
+    "timeWeek": 795,
+    "timeMonth": 765,
+    "timeYear": 791,
     "dailyMinutesDown": {
-      "2026-03-06": 0
+      "2026-03-06": 10
     }
   },
   {
