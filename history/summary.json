@@ -4,18 +4,20 @@
     "url": "https://uptime.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/uptime.futf.se.ico",
     "slug": "uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1441,
     "timeDay": 1215,
     "timeWeek": 1245,
     "timeMonth": 1043,
     "timeYear": 1441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-15": 5
+    }
   },
   {
     "name": "Hemisda",
@@ -40,28 +42,30 @@
     "url": "https://mattermost.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.futf.se.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 828,
     "timeDay": 692,
     "timeWeek": 791,
     "timeMonth": 787,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-15": 3
+    }
   },
   {
     "name": "Vaultwarden",
     "url": "https://vault.futf.se",
     "icon": "https://icons.duckduckgo.com/ip3/vault.futf.se.ico",
     "slug": "vaultwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 800,
@@ -69,7 +73,9 @@
     "timeWeek": 867,
     "timeMonth": 800,
     "timeYear": 800,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-15": 2
+    }
   },
   {
     "name": "Forms",
@@ -100,12 +106,12 @@
     "slug": "arbetsmarknad",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "86.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.81%",
     "time": 1124,
-    "timeDay": 986,
+    "timeDay": 941,
     "timeWeek": 1049,
     "timeMonth": 1087,
     "timeYear": 1124,
@@ -137,9 +143,9 @@
     "url": "https://link.futf.se/gdpr",
     "icon": "https://icons.duckduckgo.com/ip3/link.futf.se.ico",
     "slug": "link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -149,6 +155,7 @@
     "timeMonth": 1241,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2026-03-15": 0,
       "2026-02-12": 19
     }
   },
